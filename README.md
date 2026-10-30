@@ -2,35 +2,55 @@
 
 *English version below → [English](#english)*
 
-**Nástroj pro bádání v matrikách a rodinný web pro české a moravské rodokmeny.**
+### Příběh vaší rodiny, doložený matrikami a vyprávěný tak, aby ho chtěla číst celá rodina.
 
-Každý údaj nese míru jistoty a odkaz na konkrétní snímek matriky. Web ukazuje rodinu jako
-interaktivní rodokmen, vějíř předků, mapu, časovou osu na pozadí dějin a stránku pro každého
-člověka i každý matriční zápis. Žijící lidi chrání pravidlo, které se kontroluje při každém
-sestavení webu, ne slib, na který je potřeba myslet.
+Rodokmen proměňuje léta práce v archivech v rodinný web, kterým se dá listovat jako kronikou.
+Za každým jménem je skutečný zápis z matriky. Za každým datem je vidět, jak moc je jisté. Každá
+generace ožívá na mapě, na časové ose dějin a v příbězích, které se v rodině dosud nevyprávěly.
 
-**[Prohlédněte si živou ukázku →](https://rodokmen-demo.pages.dev)**
-
-> Ukázka i obrázky představují **vymyšlenou rodinu**: 379 lidí ve třinácti generacích, asi 600
-> matričních zápisů latinsky, německy a česky, náhrobky, příběhy a otevřené otázky. Skutečné jsou
-> jen obce (Vysočina).
+**[▶ Projděte si živou ukázku](https://rodokmen-demo.pages.dev)**: celá rodina, všechny funkce, nic k instalaci.
 
 ![Úvodní stránka / Home page](docs/images/home.png)
 
-## Co umí
+> Ukázka představuje **vymyšlenou rodinu** s 379 lidmi ve třinácti generacích, zhruba 600 zápisy
+> v latině, němčině a češtině, náhrobky, příběhy a otevřenými otázkami. Skutečné jsou jen vesnice
+> na Vysočině, takže si ji můžete prohlédnout celou, bez ohledu na soukromí kohokoli.
+
+## Proč je jiný než běžný rodokmen
+
+**Každý údaj má svůj důkaz.** Rodinné vyprávění, cizí strom na internetu a zápis přečtený přímo
+v matrice nejsou totéž. Rodokmen to rozlišuje u každého data a vztahu, v pěti stupních jistoty.
+U každého jména uvidíte, proč je jisté, nebo proč zatím ne.
+
+**Matriky, kterým porozumíte.** Zápis zůstává v původní latině, němčině nebo češtině a vedle něj je
+český překlad, přesná archivní citace a odkaz přímo na snímek v digitálním archivu. Kdokoli si to
+může ověřit sám.
+
+**Rodina, ne tabulka.** Rodokmen kolem kohokoli, vějíř předků přes celé generace, mapa, kudy se rod
+stěhoval, a časová osa, na které vidíte, co prožili: války, morové rány, zrušení roboty.
+
+**Příběhy, které by jinak zapadly.** V datech se samy najdou náměty: nejdelší život, nejpočetnější
+rodina, epidemie, která se prohnala vesnicí, dům, ve kterém rod žil po generace. Každá rodová linie může
+mít svůj vlastní příběh.
+
+**Soukromí hlídané strojem, ne slibem.** U žijících lidí se ukáže jen jméno a rok narození. Zápisy
+v zákonné ochranné lhůtě zůstanou skryté. Pokud by kterýkoli údaj unikl, web se vůbec nezveřejní.
+Skutečný rodinný web je za přihlášením jen pro rodinu a vyhledávače ho nevidí.
+
+## Co všechno umí
 
 | | |
 |---|---|
-| **Jistota u každého údaje** | Pět stupňů, od „přečteno na snímku matriky nebo na náhrobku“ až po „neznámo“. Člověk je tak jistý, jak jistý je nejslabší údaj, který ho určuje. |
-| **Matriční zápisy** | Přepis v původním jazyce, český překlad, archivní citace a přímý odkaz na snímek. Samotné snímky se nikdy nezveřejňují. |
-| **Rodokmen** | Předkové nahoře, potomci dole, kdokoli uprostřed; přibližování, posun, tisk. |
-| **Vějíř předků** | Tolik generací, kolik údaje sahají; každá rodová linie má svou barvu. |
-| **Mapa** | Narození, sňatky a úmrtí podle obcí, s čarami, kam se lidé stěhovali. |
-| **Časová osa** | Životy předků na pozadí válek, epidemií a reforem českých dějin. |
-| **Příběhy a linie** | V údajích se samy najdou náměty na příběhy (dlouhé životy, velké rodiny, epidemie, jeden dům po generace); každá rodová linie může mít svůj příběh. |
-| **Ochrana soukromí** | U žijících lidí jen jméno a rok narození; zápisy mladší než zákonná lhůta zůstanou skryté; když by cokoli uniklo, web se nezveřejní. |
-| **Soukromý ve výchozím stavu** | Skutečný rodinný web je za přihlášením jen pro rodinu; vyhledávače ho neindexují. |
-| **Hledání a tisk** | Fulltextové hledání na každé stránce; rodokmen k vytištění na jeden list. |
+| 🌳 **Rodokmen** | Předkové nahoře, potomci dole, kdokoli uprostřed; přibližování, posun, tisk. |
+| 🪭 **Vějíř předků** | Tolik generací, kolik údaje sahají; každá rodová linie má svou barvu. |
+| 🗺️ **Mapa** | Narození, sňatky a úmrtí podle obcí a čáry, kam se lidé stěhovali. |
+| ⏳ **Časová osa** | Životy předků na pozadí válek, epidemií a reforem českých dějin. |
+| 📜 **Matriční zápisy** | Přepis, překlad, citace a odkaz na snímek. Samotné snímky se nikdy nezveřejňují. |
+| 🏷️ **Pět stupňů jistoty** | Od „přečteno v matrice nebo na náhrobku“ po „neznámo“, s vysvětlením u každého jména. |
+| 📖 **Příběhy a rodové linie** | Náměty nalezené v datech; vlastní příběh pro každou linii. |
+| 🔒 **Ochrana soukromí** | Pravidla pro žijící lidi a ochranné lhůty, kontrolovaná při každém sestavení webu. |
+| 🔎 **Hledání a tisk** | Hledání na každé stránce; celý rodokmen k vytištění na jeden list. |
+| 📱 **Na mobilu i na počítači** | Rychlý web bez reklam a bez sledování návštěvníků. |
 
 ## Obrázky / Pictures
 
@@ -43,22 +63,16 @@ sestavení webu, ne slib, na který je potřeba myslet.
 | ![Stránka osoby](docs/images/person.png) | ![Matriční zápis](docs/images/record.png) |
 | Člověk se zdroji a údaji z matrik<br>*A person with sources and register details* | Matriční zápis: přepis a překlad<br>*A register entry: transcription and translation* |
 | ![Příběhy](docs/images/stories.png) | |
-| Příběhy nalezené v údajích<br>*Stories found in the data* | |
+| Příběhy nalezené v datech<br>*Stories found in the data* | |
 
-## Na čem je postavený
+## Chcete takový rodokmen pro svou rodinu?
 
-Nástroj v Pythonu s přísným datovým modelem, kontrolou souladu údajů a ochrany soukromí, a statický
-web (Astro) s interaktivními pohledy. Žádné sledování návštěvníků; jediný vnější požadavek jsou
-mapové podklady.
+Rád vám ho připravím: od bádání v matrikách přes ověření každého údaje až po hotový web, který
+otevřete s celou rodinou. Stačí začít tím, co už víte, třeba jmény prarodičů a vesnicí, odkud pocházeli.
 
-## Podobný rodokmen pro vaši rodinu?
+**→ Ozvěte se přes [svobodamartin.dev](https://svobodamartin.dev)**
 
-Bádání v matrikách i web jako v ukázce lze připravit na zakázku.
-Kontakt najdete na **[svobodamartin.dev](https://svobodamartin.dev)**.
-
----
-
-Tento repozitář je jen ukázka; zdrojový kód není veřejný. © Všechna práva vyhrazena.
+<sub>Tento repozitář je jen ukázka; zdrojový kód není veřejný. © Všechna práva vyhrazena.</sub>
 
 ---
 
@@ -66,48 +80,66 @@ Tento repozitář je jen ukázka; zdrojový kód není veřejný. © Všechna pr
 
 # English
 
-**A genealogy engine and family website for Czech and Moravian parish-register research.**
+### Your family's story, backed by parish registers and told so the whole family wants to read it.
 
-Every fact carries its evidence level and a citation down to the register image. The site shows the
-family as an interactive chart, a fan of ancestors, a map, a timeline against history, and a page
-for every person and every register entry. Living people are protected by a rule the build checks,
-not a promise someone has to remember.
+Rodokmen turns years of archive research into a family website you can browse like a chronicle.
+Behind every name is a real register entry. Every date shows how certain it is. Every generation
+comes alive on a map, on a timeline of history and in stories nobody in the family has told yet.
 
-**[See the live demo →](https://rodokmen-demo.pages.dev)**
+**[▶ Explore the live demo](https://rodokmen-demo.pages.dev)**: a whole family, every feature, nothing to install.
 
-> The demo and the pictures show an **invented family**: 379 people across thirteen generations,
-> about 600 register entries in Latin, German and Czech, gravestones, stories and open questions.
-> Only the villages (Vysočina region) are real. The site's interface is in Czech.
+> The demo shows an **invented family**: 379 people across thirteen generations, about 600 register
+> entries in Latin, German and Czech, gravestones, stories and open questions. Only the villages
+> (Vysočina region) are real, so you can explore all of it without touching anyone's privacy.
+> The site's interface is in Czech.
 
-## What it does
+## Why it is different
+
+**Every fact has its proof.** A family memory, someone else's online tree and an entry read in the
+register itself are not the same thing. Rodokmen tells them apart for every date and every
+relationship, on five levels of certainty, and shows next to every name why it is certain, or why
+not yet.
+
+**Registers you can actually read.** The entry stays in its original Latin, German or Czech, with a
+Czech translation, an exact archive citation and a link straight to the scan in the digital archive.
+Anyone can check it for themselves.
+
+**A family, not a spreadsheet.** A chart around anyone, a fan of ancestors across generations, a map
+of where the family moved, and a timeline showing what they lived through: wars, plagues, the end of
+serfdom.
+
+**Stories that would otherwise be lost.** The data surfaces them by itself: the longest life, the
+largest family, the epidemic that swept through a village, the house the family held for generations. Every
+family line can carry its own story.
+
+**Privacy enforced by the machine, not by a promise.** Living people show only a name and birth
+year. Register entries still under the legal embargo stay hidden. If anything would leak, the site
+is not published at all. The real family site sits behind a sign-in for the family only, invisible
+to search engines.
+
+## Features
 
 | | |
 |---|---|
-| **Evidence on every fact** | Five levels, from "read on the register image or a gravestone" down to "unknown". A person is as sure as the weakest fact that identifies them. |
-| **Register entries** | Transcription in the original language, Czech translation, archive citation and a deep link to the scan. Scans themselves are never published. |
-| **Family chart** | Ancestors above, descendants below, any person in the centre; zoom, pan, print. |
-| **Fan of ancestors** | As many generations as the data reaches, each family line in its own colour. |
-| **Map** | Births, marriages and deaths by village, with lines showing where people moved. |
-| **Timeline** | Life bars of the ancestors over wars, epidemics and reforms of Czech history. |
-| **Stories and lines** | Candidate stories are found in the data (long lives, large families, epidemics, one house over generations); each family line can carry its own story. |
-| **Privacy** | Living people show only name and birth year; register text younger than the legal embargo stays out; nothing is published if anything leaks. |
-| **Private by default** | The real family site sits behind a sign-in for the family only; nothing is indexed by search engines. |
-| **Search and print** | Full-text search on every page; a printable one-sheet pedigree. |
+| 🌳 **Family chart** | Ancestors above, descendants below, anyone in the centre; zoom, pan, print. |
+| 🪭 **Fan of ancestors** | As many generations as the data reaches, each family line in its own colour. |
+| 🗺️ **Map** | Births, marriages and deaths by village, with lines showing where people moved. |
+| ⏳ **Timeline** | Ancestors' lives over the wars, epidemics and reforms of Czech history. |
+| 📜 **Register entries** | Transcription, translation, citation and a link to the scan. Scans themselves are never published. |
+| 🏷️ **Five levels of certainty** | From "read in the register or on a gravestone" down to "unknown", explained at every name. |
+| 📖 **Stories and family lines** | Story ideas found in the data; each line can have its own story. |
+| 🔒 **Privacy** | Rules for living people and legal embargoes, checked every time the site is built. |
+| 🔎 **Search and print** | Search on every page; the whole pedigree printable on one sheet. |
+| 📱 **Phone and desktop** | A fast site with no ads and no visitor tracking. |
 
-## Pictures
+Pictures: [see above](#obrázky--pictures), captions in both languages.
 
-See [the pictures above](#obrázky--pictures) (captions in both languages).
+## Want a family tree like this?
 
-## Built with
+I'll build one for you, from research in the parish registers and checking every fact to a
+finished website you can open with your whole family. All it takes to start is what you already
+know, such as your grandparents' names and the village they came from.
 
-A Python engine with a strict data model, consistency and privacy checks, and a static website
-(Astro) with interactive views. No tracking; the map tiles are the only outside request.
+**→ Get in touch via [svobodamartin.dev](https://svobodamartin.dev)**
 
-## A family tree like this for your family?
-
-Research in the parish registers and a website like the demo can be made to order.
-Get in touch via **[svobodamartin.dev](https://svobodamartin.dev)**.
-
----
-
-This repository is a showcase only; the source code is not public. © All rights reserved.
+<sub>This repository is a showcase only; the source code is not public. © All rights reserved.</sub>
