@@ -2,10 +2,11 @@
 
 *English version below → [English](#english)*
 
-### Příběh vaší rodiny, doložený matrikami a vyprávěný tak, aby ho chtěla číst celá rodina.
+### Příběh vaší rodiny, postavený na matrikách a vyprávěný tak, aby ho chtěla číst celá rodina.
 
 Rodokmen proměňuje léta práce v archivech v rodinný web, kterým se dá listovat jako kronikou.
-Za každým jménem je skutečný zápis z matriky. Za každým datem je vidět, jak moc je jisté. Každá
+U každého údaje je vidět, odkud pochází (z matriky, z náhrobku, z rodinného vyprávění nebo
+z cizího rodokmenu) a jak moc je jistý. Každá
 generace ožívá na mapě, na časové ose dějin a v příbězích, které se v rodině dosud nevyprávěly.
 
 **[▶ Projděte si živou ukázku](https://rodokmen-demo.pages.dev)**: celá rodina, všechny funkce, nic k instalaci.
@@ -18,7 +19,7 @@ generace ožívá na mapě, na časové ose dějin a v příbězích, které se 
 
 ## Proč je jiný než běžný rodokmen
 
-**Každý údaj má svůj důkaz.** Rodinné vyprávění, cizí strom na internetu a zápis přečtený přímo
+**U každého údaje víte, odkud je.** Rodinné vyprávění, cizí strom na internetu a zápis přečtený přímo
 v matrice nejsou totéž. Rodokmen to rozlišuje u každého data a vztahu, v pěti stupních jistoty.
 U každého jména uvidíte, proč je jisté, nebo proč zatím ne.
 
@@ -49,7 +50,7 @@ Skutečný rodinný web je za přihlášením jen pro rodinu a vyhledávače ho 
 | 🏷️ **Pět stupňů jistoty** | Od „přečteno v matrice nebo na náhrobku“ po „neznámo“, s vysvětlením u každého jména. |
 | 📖 **Příběhy a rodové linie** | Náměty nalezené v datech; vlastní příběh pro každou linii. |
 | 🔒 **Ochrana soukromí** | Pravidla pro žijící lidi a ochranné lhůty, kontrolovaná při každém sestavení webu. |
-| 🔎 **Hledání a tisk** | Hledání na každé stránce; celý rodokmen k vytištění na jeden list. |
+| 🔎 **Hledání a tisk** | Hledání na každé stránce; rodokmen předků k vytištění na jeden list A4 nebo A3. |
 | 📱 **Na mobilu i na počítači** | Rychlý web bez reklam a bez sledování návštěvníků. |
 
 ## Obrázky / Pictures
@@ -67,7 +68,7 @@ Skutečný rodinný web je za přihlášením jen pro rodinu a vyhledávače ho 
 
 ## Chcete takový rodokmen pro svou rodinu?
 
-Rád vám ho připravím: od bádání v matrikách přes ověření každého údaje až po hotový web, který
+Rád vám ho připravím: od bádání v matrikách přes ověřování údajů v matrikách až po hotový web, který
 otevřete s celou rodinou. Stačí začít tím, co už víte, třeba jmény prarodičů a vesnicí, odkud pocházeli.
 
 **→ Ozvěte se přes [svobodamartin.dev](https://svobodamartin.dev)**
@@ -80,10 +81,11 @@ otevřete s celou rodinou. Stačí začít tím, co už víte, třeba jmény pra
 
 # English
 
-### Your family's story, backed by parish registers and told so the whole family wants to read it.
+### Your family's story, built on parish registers and told so the whole family wants to read it.
 
 Rodokmen turns years of archive research into a family website you can browse like a chronicle.
-Behind every name is a real register entry. Every date shows how certain it is. Every generation
+Every fact shows where it comes from (a register, a gravestone, a family memory or someone
+else's tree) and how certain it is. Every generation
 comes alive on a map, on a timeline of history and in stories nobody in the family has told yet.
 
 **[▶ Explore the live demo](https://rodokmen-demo.pages.dev)**: a whole family, every feature, nothing to install.
@@ -95,7 +97,7 @@ comes alive on a map, on a timeline of history and in stories nobody in the fami
 
 ## Why it is different
 
-**Every fact has its proof.** A family memory, someone else's online tree and an entry read in the
+**Every fact shows where it comes from.** A family memory, someone else's online tree and an entry read in the
 register itself are not the same thing. Rodokmen tells them apart for every date and every
 relationship, on five levels of certainty, and shows next to every name why it is certain, or why
 not yet.
@@ -129,14 +131,14 @@ to search engines.
 | 🏷️ **Five levels of certainty** | From "read in the register or on a gravestone" down to "unknown", explained at every name. |
 | 📖 **Stories and family lines** | Story ideas found in the data; each line can have its own story. |
 | 🔒 **Privacy** | Rules for living people and legal embargoes, checked every time the site is built. |
-| 🔎 **Search and print** | Search on every page; the whole pedigree printable on one sheet. |
+| 🔎 **Search and print** | Search on every page; a pedigree of ancestors printable on one A4 or A3 sheet. |
 | 📱 **Phone and desktop** | A fast site with no ads and no visitor tracking. |
 
 Pictures: [see above](#obrázky--pictures), captions in both languages.
 
 ## Want a family tree like this?
 
-I'll build one for you, from research in the parish registers and checking every fact to a
+I'll build one for you, from research in the parish registers and checking facts against the records to a
 finished website you can open with your whole family. All it takes to start is what you already
 know, such as your grandparents' names and the village they came from.
 
