@@ -6,7 +6,7 @@
 
 Rodokmen proměňuje léta práce v archivech v rodinný web, kterým se dá listovat jako kronikou.
 U každého údaje je vidět, odkud pochází (z matriky, z náhrobku, z rodinného vyprávění nebo
-z cizího rodokmenu) a jak moc je jistý. Každá
+z cizího rodokmenu). Každá
 generace ožívá na mapě, na časové ose dějin a v příbězích, které se v rodině dosud nevyprávěly.
 
 **[▶ Projděte si živou ukázku](https://rodokmen-demo.pages.dev)**: celá rodina, všechny funkce, nic k instalaci.
@@ -85,7 +85,7 @@ otevřete s celou rodinou. Stačí začít tím, co už víte, třeba jmény pra
 
 Rodokmen turns years of archive research into a family website you can browse like a chronicle.
 Every fact shows where it comes from (a register, a gravestone, a family memory or someone
-else's tree) and how certain it is. Every generation
+else's tree). Every generation
 comes alive on a map, on a timeline of history and in stories nobody in the family has told yet.
 
 **[▶ Explore the live demo](https://rodokmen-demo.pages.dev)**: a whole family, every feature, nothing to install.
