@@ -1,5 +1,71 @@
 # Rodokmen
 
+*English version below → [English](#english)*
+
+**Nástroj pro bádání v matrikách a rodinný web pro české a moravské rodokmeny.**
+
+Každý údaj nese míru jistoty a odkaz na konkrétní snímek matriky. Web ukazuje rodinu jako
+interaktivní rodokmen, vějíř předků, mapu, časovou osu na pozadí dějin a stránku pro každého
+člověka i každý matriční zápis. Žijící lidi chrání pravidlo, které se kontroluje při každém
+sestavení webu, ne slib, na který je potřeba myslet.
+
+**[Prohlédněte si živou ukázku →](https://rodokmen-demo.pages.dev)**
+
+> Ukázka i obrázky představují **vymyšlenou rodinu**: 379 lidí ve třinácti generacích, asi 600
+> matričních zápisů latinsky, německy a česky, náhrobky, příběhy a otevřené otázky. Skutečné jsou
+> jen obce (Vysočina).
+
+![Úvodní stránka / Home page](docs/images/home.png)
+
+## Co umí
+
+| | |
+|---|---|
+| **Jistota u každého údaje** | Pět stupňů, od „přečteno na snímku matriky nebo na náhrobku“ až po „neznámo“. Člověk je tak jistý, jak jistý je nejslabší údaj, který ho určuje. |
+| **Matriční zápisy** | Přepis v původním jazyce, český překlad, archivní citace a přímý odkaz na snímek. Samotné snímky se nikdy nezveřejňují. |
+| **Rodokmen** | Předkové nahoře, potomci dole, kdokoli uprostřed; přibližování, posun, tisk. |
+| **Vějíř předků** | Tolik generací, kolik údaje sahají; každá rodová linie má svou barvu. |
+| **Mapa** | Narození, sňatky a úmrtí podle obcí, s čarami, kam se lidé stěhovali. |
+| **Časová osa** | Životy předků na pozadí válek, epidemií a reforem českých dějin. |
+| **Příběhy a linie** | V údajích se samy najdou náměty na příběhy (dlouhé životy, velké rodiny, epidemie, jeden dům po generace); každá rodová linie může mít svůj příběh. |
+| **Ochrana soukromí** | U žijících lidí jen jméno a rok narození; zápisy mladší než zákonná lhůta zůstanou skryté; když by cokoli uniklo, web se nezveřejní. |
+| **Soukromý ve výchozím stavu** | Skutečný rodinný web je za přihlášením jen pro rodinu; vyhledávače ho neindexují. |
+| **Hledání a tisk** | Fulltextové hledání na každé stránce; rodokmen k vytištění na jeden list. |
+
+## Obrázky / Pictures
+
+| | |
+|---|---|
+| ![Rodokmen](docs/images/chart.png) | ![Vějíř předků](docs/images/fan.png) |
+| Rodokmen kolem jednoho člověka<br>*Family chart around one person* | Vějíř předků<br>*Fan of ancestors* |
+| ![Mapa](docs/images/map.png) | ![Časová osa](docs/images/timeline.png) |
+| Kde rodina žila<br>*Where the family lived* | Životy na pozadí dějin<br>*Lives against history* |
+| ![Stránka osoby](docs/images/person.png) | ![Matriční zápis](docs/images/record.png) |
+| Člověk se zdroji a údaji z matrik<br>*A person with sources and register details* | Matriční zápis: přepis a překlad<br>*A register entry: transcription and translation* |
+| ![Příběhy](docs/images/stories.png) | |
+| Příběhy nalezené v údajích<br>*Stories found in the data* | |
+
+## Na čem je postavený
+
+Nástroj v Pythonu s přísným datovým modelem, kontrolou souladu údajů a ochrany soukromí, a statický
+web (Astro) s interaktivními pohledy. Žádné sledování návštěvníků; jediný vnější požadavek jsou
+mapové podklady.
+
+## Podobný rodokmen pro vaši rodinu?
+
+Bádání v matrikách i web jako v ukázce lze připravit na zakázku.
+Kontakt najdete na **[svobodamartin.dev](https://svobodamartin.dev)**.
+
+---
+
+Tento repozitář je jen ukázka; zdrojový kód není veřejný. © Všechna práva vyhrazena.
+
+---
+
+<a id="english"></a>
+
+# English
+
 **A genealogy engine and family website for Czech and Moravian parish-register research.**
 
 Every fact carries its evidence level and a citation down to the register image. The site shows the
@@ -12,8 +78,6 @@ not a promise someone has to remember.
 > The demo and the pictures show an **invented family**: 379 people across thirteen generations,
 > about 600 register entries in Latin, German and Czech, gravestones, stories and open questions.
 > Only the villages (Vysočina region) are real. The site's interface is in Czech.
-
-![Home page](docs/images/home.png)
 
 ## What it does
 
@@ -32,16 +96,7 @@ not a promise someone has to remember.
 
 ## Pictures
 
-| | |
-|---|---|
-| ![Family chart](docs/images/chart.png) | ![Fan of ancestors](docs/images/fan.png) |
-| Family chart around one person | Fan of ancestors |
-| ![Map](docs/images/map.png) | ![Timeline](docs/images/timeline.png) |
-| Where the family lived | Lives against history |
-| ![Person page](docs/images/person.png) | ![Register entry](docs/images/record.png) |
-| A person with sources and register details | A register entry: transcription and translation |
-| ![Stories](docs/images/stories.png) | |
-| Stories found in the data | |
+See [the pictures above](#obrázky--pictures) (captions in both languages).
 
 ## Built with
 
