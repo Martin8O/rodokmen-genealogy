@@ -66,12 +66,13 @@ Skutečný rodinný web je za přihlášením jen pro rodinu a vyhledávače ho 
 | ![Příběhy](docs/images/stories.png) | |
 | Příběhy nalezené v datech<br>*Stories found in the data* | |
 
-## Chcete takový rodokmen pro svou rodinu?
+## Zajímá vás podobný rodokmen?
 
-Rád vám ho připravím: od bádání v matrikách přes ověřování údajů v matrikách až po hotový web, který
-otevřete s celou rodinou. Stačí začít tím, co už víte, třeba jmény prarodičů a vesnicí, odkud pocházeli.
+Stejným postupem vzniká rodokmen mé vlastní rodiny: bádání v matrikách, ověřování údajů v pramenech a web,
+který lze otevřít celé rodině. Pokud o něčem podobném uvažujete i pro svou rodinu, napište mi. Rád se
+podělím o zkušenosti a probereme, co by se dalo dohledat a jestli by dávala smysl spolupráce.
 
-**→ Ozvěte se přes [svobodamartin.dev](https://svobodamartin.dev)**
+**→ Napište přes [svobodamartin.dev](https://svobodamartin.dev)**
 
 <sub>Tento repozitář je jen ukázka; zdrojový kód není veřejný. © Všechna práva vyhrazena.</sub>
 
@@ -136,11 +137,12 @@ to search engines.
 
 Pictures: [see above](#obrázky--pictures), captions in both languages.
 
-## Want a family tree like this?
+## Interested in a family tree like this?
 
-I'll build one for you, from research in the parish registers and checking facts against the records to a
-finished website you can open with your whole family. All it takes to start is what you already
-know, such as your grandparents' names and the village they came from.
+My own family's tree is built the same way: research in the parish registers, facts checked against the
+records, and a website the whole family can open. If you are thinking about something similar for your
+family, write to me. I am happy to share what I have learned and talk about what could be found and
+whether working together would make sense.
 
 **→ Get in touch via [svobodamartin.dev](https://svobodamartin.dev)**
 
